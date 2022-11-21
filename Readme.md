@@ -8,8 +8,7 @@
 
 ## Live Link
 
-- No live demo
-<!-- [view live demo](https://ericmahare.github.io/todo-list/) -->
+[view live demo](https://playable-ads.netlify.app/)
 
 ## Getting Started
 
