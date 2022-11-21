@@ -1,6 +1,5 @@
-# Search Github Users
-
-> This a pinko master HTML 5 playable ads 
+# Playable Ads
+> Plinko master HTML 5 playable ads 
 ## Built With
 
 - HTML 5
@@ -16,13 +15,11 @@
 
 To get a local copy up and running follow these simple example steps.
 
-- copy this link `https://github.com/ericmahare/github-users.git`.
+- copy this link `https://github.com/ericmahare/playable-ads-sample.git`.
 - get the directory that you want to clone the repository.
 - open the command prompt in this directory.
-- write `git clone https://github.com/ericmahare/github-users.git`.
-- go to the repository folder in your command prompt `cd todo-list-react`
-- write `npm install` to install all the packages.
-- write `npm start` to start the live server
+- write `git clone https://github.com/ericmahare/playable-ads-sample.git`.
+- go to the repository folder in your command prompt `cd playable-ads-sample.git`
 
 ## Authors
 
